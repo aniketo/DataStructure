@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/singly_ll"
+            android:title="Link list" />
+        <item
+            android:id="@+id/stack"
+            android:title="Stack" />
+        <item
+            android:id="@+id/queue"
+            android:title="Queue" />
+        <item
+            android:id="@+id/array"
+            android:title="Array" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+        <item android:title="Item" />
+    </group>
+
+
+</menu>
+
